@@ -1,4 +1,4 @@
-<h1 align="center">Sheikh Haseeb Ahmad Hey ,Myself Sheikh Haseeb Ahmad</h1>
+<h1 align="center">Hey ,Myself Sheikh Haseeb Ahmad</h1>
 <h3 align="center">i like coding and cricket</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaseeb843&label=Profile%20views&color=0e75b6&style=flat" alt="shaseeb843" /> </p>
